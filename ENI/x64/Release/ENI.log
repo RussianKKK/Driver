@@ -1,0 +1,8 @@
+﻿  Building 'ENI' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+  memory.cpp
+C:\Users\Admin\Desktop\drv_new\ENI\ENI\main.cpp(108,76): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+  Generating Code...
+  ENI.vcxproj -> C:\Users\Admin\Desktop\drv_new\ENI\x64\Release\ENI.sys
+  DrvCat task was skipped as there was no catalog file to process
+  
